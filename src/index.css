@@ -16,5 +16,5 @@ code {
   font-family: 'NunitoRegular';
   src: local('NunitoRegular'),
     url('./fonts/Nunito-Regular.ttf') format('truetype');
-  font-weight: normal;
+  font-weight: 400;
 }
